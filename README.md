@@ -7,7 +7,7 @@
 
 ## 📬 Get in Touch
 
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- LinkedIn: [linkedin.com/in/wmarti](https://linkedin.com/in/wmarti)
 - Email: wmartin1824@gmail.com
 
 ## 🛠️ Skills & Technologies
