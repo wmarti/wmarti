@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Will!
 
-## 🌱 About Me
+## About Me
 
-- 🔭 I'm currently working as an Applications Engineer at Synopsys.
 - 🌱 I'm currently looking for opportunities in Computer Graphics.
+- 🔭 I'm currently working as an Applications Engineer at Synopsys.
 
 ## 📬 Get in Touch
 
