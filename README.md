@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Will Martin]
+# 👋 Hi, I'm Will!
 
 ## 🌱 About Me
 
