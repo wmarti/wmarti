@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hi, I'm [Will Martin]
 
-<!--
-**wmarti/wmarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working as an Applications Engineer at Synopsys.
+- 🌱 I'm currently looking for opportunities in Computer Graphics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Get in Touch
+
+- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- Email: wmartin1824@gmail.com
+
+## 🛠️ Skills & Technologies
+
+- **Programming Languages**: C++, Metal Shading Language
+
+## 🌐 Website
+
+[Metal Tutorial](https://www.metaltutorial.com)
