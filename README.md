@@ -14,6 +14,6 @@
 
 - **Programming Languages**: C++, Metal Shading Language
 
-## 🌐 Website
+## 🌐 Computer Graphics Website
 
-[Metal Tutorial](https://www.metaltutorial.com)
+[MetalTutorial.com](https://www.metaltutorial.com)
