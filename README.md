@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🌱 I'm currently looking for opportunities in Computer Graphics.
-- 🔭 I'm currently working as an Applications Engineer at Synopsys.
+- 🌱 I'm currently looking for opportunities in Computer Graphics. Please feel free to reach out!
+- 🔭 I'm currently working as an Applications Engineer in ASIC Verification at Synopsys.
 
 ## 📬 Get in Touch
 
